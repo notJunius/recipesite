@@ -1,0 +1,45 @@
+body {
+    background-color: gray;
+    align-content: center;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    color: white;
+    text-align: center;
+    padding: 4px 8px;
+    border: 5px solid white;
+    border-radius: 25px;
+}
+
+ul {
+    margin: auto;
+    color: white;
+    width: 200px;
+}
+
+
+ol {
+    margin: auto;
+    color: white;
+    width: 200px;
+}
+
+li {
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
